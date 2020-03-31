@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sasuadrian/pokemon.git/static/css/main.a23c48f2.chunk.css",
+    "main.js": "/sasuadrian/pokemon.git/static/js/main.308f6529.chunk.js",
+    "main.js.map": "/sasuadrian/pokemon.git/static/js/main.308f6529.chunk.js.map",
+    "runtime-main.js": "/sasuadrian/pokemon.git/static/js/runtime-main.c597996d.js",
+    "runtime-main.js.map": "/sasuadrian/pokemon.git/static/js/runtime-main.c597996d.js.map",
+    "static/css/2.de424728.chunk.css": "/sasuadrian/pokemon.git/static/css/2.de424728.chunk.css",
+    "static/js/2.edbc83c4.chunk.js": "/sasuadrian/pokemon.git/static/js/2.edbc83c4.chunk.js",
+    "static/js/2.edbc83c4.chunk.js.map": "/sasuadrian/pokemon.git/static/js/2.edbc83c4.chunk.js.map",
+    "index.html": "/sasuadrian/pokemon.git/index.html",
+    "precache-manifest.65bc55b75d8db12e22df4c156a7da62b.js": "/sasuadrian/pokemon.git/precache-manifest.65bc55b75d8db12e22df4c156a7da62b.js",
+    "service-worker.js": "/sasuadrian/pokemon.git/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/sasuadrian/pokemon.git/static/css/2.de424728.chunk.css.map",
+    "static/css/main.a23c48f2.chunk.css.map": "/sasuadrian/pokemon.git/static/css/main.a23c48f2.chunk.css.map",
+    "static/js/2.edbc83c4.chunk.js.LICENSE.txt": "/sasuadrian/pokemon.git/static/js/2.edbc83c4.chunk.js.LICENSE.txt",
+    "static/media/spinner2.gif": "/sasuadrian/pokemon.git/static/media/spinner2.9f837f2f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c597996d.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.edbc83c4.chunk.js",
+    "static/css/main.a23c48f2.chunk.css",
+    "static/js/main.308f6529.chunk.js"
+  ]
+}
