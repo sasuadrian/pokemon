@@ -13,7 +13,7 @@ const TYPE_COLORS = {
   ghost: '6060B2',
   grass: '74C236',
   ground: 'D3B357',
-  ice: 'A3E7FD',
+  ice: 'A3E7FE',
   normal: 'C8C4BC',
   poison: '934594',
   psychic: 'ED4882',
